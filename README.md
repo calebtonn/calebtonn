@@ -1,6 +1,8 @@
 <!-- calebtonn/calebtonn — GitHub Profile README -->
 <!-- This file renders automatically on github.com/calebtonn -->
 
+<img src="banner.jpg" alt="Texas wildflowers" width="100%">
+
 # Caleb Tonn
 
 Building AI tools, agents, and workflows — skills, automation, and enterprise AI projects.
