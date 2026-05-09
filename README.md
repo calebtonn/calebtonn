@@ -1,7 +1,7 @@
 <!-- calebtonn/calebtonn — GitHub Profile README -->
 <!-- This file renders automatically on github.com/calebtonn -->
 
-<img src="banner.jpg?v=2" alt="Texas wildflowers" width="100%">
+<img src="banner.jpg" alt="Texas wildflowers" width="100%">
 
 # Caleb Tonn
 
